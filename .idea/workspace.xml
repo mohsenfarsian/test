@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="03159f03-66a1-4d14-9724-3f7a8b7acb30" name="Default Changelist" comment="" />
+    <list default="true" id="03159f03-66a1-4d14-9724-3f7a8b7acb30" name="Default Changelist" comment="remove css" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,11 +40,34 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1601288248668</updated>
-      <workItem from="1601288252092" duration="69000" />
+      <workItem from="1601288252092" duration="341000" />
     </task>
+    <task id="LOCAL‎۰۰۰۰۱" summary="remove css">
+      <created>1601288489472</created>
+      <option name="number" value="LOCAL‎۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎۰۰۰۰۱" />
+      <updated>1601288489472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="حذف لینک css" />
+    <MESSAGE value="remove css" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove css" />
   </component>
 </project>

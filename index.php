@@ -11,7 +11,7 @@ $querysub = mysqli_query($conn,$sqlsub);
         <meta charset="utf-8" />
         <title>منوی دراپ داون CSS</title>
 
-<!--        <link href="assets/style.css" rel="stylesheet" />->>>>->
+        <link href="assets/style.css" rel="stylesheet" />
 
     </head>
     <body>
